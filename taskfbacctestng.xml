@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<!-- <parameter name="fname" value="sunday"></parameter>
+<parameter name="lname" value="weeek"></parameter>
+<parameter name="mobile" value="2222"></parameter>
+<parameter name="pass" value="@12@"></parameter>
+<parameter name="day" value="10"></parameter>
+<parameter name="month" value="2"></parameter>
+<parameter name="year" value="2000"></parameter> -->
+
+  <test name="Test">
+  
+    <classes>
+      <class name="org.test.TaskFbAcc"/>
+    </classes>
+  </test> 
+</suite> 
